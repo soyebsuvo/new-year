@@ -31,3 +31,77 @@
 .header-para{
     color: #444343;
 }
+.failing{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+.imma{
+    width: 400px;
+}
+.failing>div{
+    padding: 50px;
+}
+.failing-heading{
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+.text-div{
+    width: 30%;
+}
+.failing-para{
+    font-size: small;
+    color: #444343;
+    margin-bottom: 10px;
+}
+.items{
+    margin-top: 10px;
+    color: #444343;
+    font-size: small;
+}
+.text-div>ul{
+    margin-left: 10px;
+}
+.section-title{
+    text-align: center;
+    margin: 40px 0px;
+    font-size: 1.8rem;
+}
+.skill-title{
+    font-size: 1.3rem;
+    margin-bottom: 13px;
+}
+.skill-image{
+    width: 50px;
+    margin-bottom: 13px;
+}
+.skills{
+    text-align: center;
+    
+}
+.my-plan-container{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+    align-items: center;
+}
+.banner{
+    margin: 140px;
+    background-image: url("images/gradient2.png") , url("images/watch.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+}
+.call-btn{
+    padding: 10px 20px;
+    margin-top: 20px;
+    color: #F15B22;
+    border: none;
+    border-radius: 5px;
+}
+.white{
+    color: white;
+}
