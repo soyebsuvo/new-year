@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header-container{
+    padding: 50px;
+    background-image: url("images/banner/banner1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* height: 80vh; */
+    /* text-align: right; */
+}
+.header-text{
+    text-align: right;
+    padding:130px;
+}
+.header-head{
+    margin: 15px 0px;
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+.header-button{
+    padding: 10px 20px;
+    border: none;
+    background-color: #F15B22;
+    margin-top: 20px;
+    border-radius: 5px;
+    color: white;
+}
+.header-para{
+    color: #444343;
+}
